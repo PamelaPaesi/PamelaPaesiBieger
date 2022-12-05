@@ -1,4 +1,4 @@
-package TestesArq1;
+package TestesArq1.Questao1;
 
 import org.testng.annotations.Test;
 import static org.junit.Assert.assertTrue;

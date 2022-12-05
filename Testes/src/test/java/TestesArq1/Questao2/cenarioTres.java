@@ -1,4 +1,4 @@
-package TestesArq1;
+package TestesArq1.Questao2;
 
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
@@ -9,7 +9,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.sql.ResultSet;
 
-public class cenarioTres extends connection {
+public class cenarioTres extends connection{
     @Test
     public void test() throws InterruptedException {
         System.setProperty("webdriver.gecko.driver", "C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.3/bin/geckodriver.exe");

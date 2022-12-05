@@ -5,22 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7a6af19-ba5c-4cf7-bb3c-35ccdf9e6886" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestesArq2/Teste3/cenarioDois.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestesArq2/Teste3/cenarioQuatro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestesArq2/Teste3/cenarioTres.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestesArq1/cenarioDois.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestesArq1/cenarioDois.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestesArq1/cenarioTres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestesArq1/cenarioTres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestesArq1/cenarioUm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestesArq1/cenarioUm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestesArq2/erroTestePraticoUm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestesArq2/erroTestePraticoUm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestesArq2/testePraticoTresTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestesArq2/Teste3/cenarioUm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestesArq2/testePraticoUm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestesArq2/testePraticoUm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestesArq1/cenarioDois.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestesArq1/cenarioDois.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestesArq1/cenarioTres.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestesArq1/cenarioTres.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestesArq1/cenarioUm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestesArq1/cenarioUm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestesArq2/ErroTestePraticoUm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestesArq2/ErroTestePraticoUm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestesArq2/testePraticoTresTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestesArq2/testePraticoUm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestesArq2/testePraticoUm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestesArq1/cenarioDois.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestesArq1/cenarioQuatro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestesArq1/cenarioTres.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestesArq1/cenarioUm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestesArq1/connection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestesArq1/cenarioDois.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestesArq1/cenarioQuatro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestesArq1/cenarioTres.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestesArq1/cenarioUm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestesArq1/connection.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
