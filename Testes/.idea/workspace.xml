@@ -5,31 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7a6af19-ba5c-4cf7-bb3c-35ccdf9e6886" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestesArq1/cenarioTres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestesArq2/Teste3/cenarioDois.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestesArq2/Teste3/cenarioQuatro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestesArq2/Teste3/cenarioTres.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CenarioDois.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CenarioQuatro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CenarioTres.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ErroTestePraticoUm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TestePraticoUm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/cenarioDoisTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/cenarioQuatroTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/cenarioTresTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/erroTestePraticoUm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/mainTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/testePraticoUmTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Selenium-WebDriver-Test-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Selenium-WebDriver-Test-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/CenarioDois.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/CenarioQuatro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/CenarioTres.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/ErroTestePraticoUm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TestePraticoUm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/mainTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestesArq1/cenarioDois.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestesArq1/cenarioDois.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestesArq1/cenarioTres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestesArq1/cenarioTres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestesArq1/cenarioUm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestesArq1/cenarioUm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestesArq2/erroTestePraticoUm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestesArq2/erroTestePraticoUm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestesArq2/testePraticoTresTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestesArq2/Teste3/cenarioUm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestesArq2/testePraticoUm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestesArq2/testePraticoUm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestesArq1/cenarioDois.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestesArq1/cenarioDois.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestesArq1/cenarioTres.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestesArq1/cenarioTres.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestesArq1/cenarioUm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestesArq1/cenarioUm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestesArq2/ErroTestePraticoUm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestesArq2/ErroTestePraticoUm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestesArq2/testePraticoTresTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestesArq2/testePraticoUm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestesArq2/testePraticoUm.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,14 +58,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pâmela/Downloads/Selenium-WebDriver-Test&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Pâmela/Documents/GitHub/PamelaPaesiBieger/Testes/src/test/java/TestesArq2/Teste3"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pâmela\Documents\GitHub\PamelaPaesiBieger\Testes\src\test\java\TestesArq2\Teste3" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

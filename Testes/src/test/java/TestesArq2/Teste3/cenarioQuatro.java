@@ -1,10 +1,11 @@
-package TestesArq1;
+package TestesArq2.Teste3;
 
-import org.testng.annotations.Test;
-import static org.junit.Assert.assertTrue;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
+
+import static org.junit.Assert.assertTrue;
 
 public class cenarioQuatro {
     @Test
@@ -26,5 +27,6 @@ public class cenarioQuatro {
         driver.findElement(By.xpath("//a[@class='remove red ng-scope']")).click();
         Thread.sleep(2000);
         assertTrue(driver.findElement(By.xpath("//label[@class='roboto-bold ng-scope']")).isDisplayed());
+        System.out.println("Seu carrinho está vazio");
     }
 }

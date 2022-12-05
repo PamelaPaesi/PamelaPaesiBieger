@@ -30,7 +30,7 @@ public class testePraticoUm {
         driver.findElement(By.linkText("Não sei meu CEP")).click();
         Thread.sleep(5000);
         driver.findElement(By.xpath("//div[@class='mat-form-field-flex ng-tns-c157-64']")).click();
-        Thread.sleep(5000);
+        Thread.sleep(7000);
         driver.findElement(By.xpath("//mat-option[@id='mat-option-172']")).click();
         driver.findElement(By.id("mat-input-6")).sendKeys("Pinhalzinho");
         Thread.sleep(10000);
@@ -51,9 +51,14 @@ public class testePraticoUm {
         driver.findElement(By.id("mat-input-3")).sendKeys("(21) 98891-4304");
         driver.findElement(By.id("mat-input-4")).sendKeys("bernardo_pedro_dias@edepbr.com.br");
         driver.findElement(By.id("mat-input-5")).sendKeys("Iphone 11 pro max");
-        Thread.sleep(5000);
+        Thread.sleep(7000);
         driver.findElement(By.xpath("//mat-option[@id='mat-option-179']")).click();
         driver.findElement(By.xpath("//div[@class='mat-button-toggle-label-content']")).click();
-        assertTrue(true);
+
+        driver.findElement(By.xpath("//button[@class='button block']")).click();
+        Thread.sleep(500);
+        assertTrue(
+            driver.findElement(By.xpath("//span[@class='ps-ico-loading ps-ico-md']")).isDisplayed()
+        );
     }
 }
