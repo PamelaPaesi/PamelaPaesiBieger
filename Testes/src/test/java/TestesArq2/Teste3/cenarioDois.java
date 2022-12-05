@@ -20,7 +20,11 @@ public class cenarioDois {
         driver.findElement(By.xpath("//span[@class='bunny productColor ng-scope YELLOW']")).click();
         driver.findElement(By.name("save_to_cart")).click();
         Thread.sleep(500);
-        String texts = driver.findElement(By.xpath("//h3[@class='ng-binding']")).getText();
-        assertEquals("HP PAVILION 15Z TOUCH LAPTOP", texts);
+        driver.findElement(By.id("shoppingCartLink")).click();
+        Thread.sleep(3000);
+        String title = driver.findElement(
+                By.xpath("//span[@class='productColor']")
+        ).getAttribute("title");
+        assertEquals("YELLOW", title);
     }
 }

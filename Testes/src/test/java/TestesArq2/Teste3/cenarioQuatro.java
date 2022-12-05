@@ -27,6 +27,5 @@ public class cenarioQuatro {
         driver.findElement(By.xpath("//a[@class='remove red ng-scope']")).click();
         Thread.sleep(2000);
         assertTrue(driver.findElement(By.xpath("//label[@class='roboto-bold ng-scope']")).isDisplayed());
-        System.out.println("Seu carrinho está vazio");
     }
 }
