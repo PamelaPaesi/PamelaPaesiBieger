@@ -38,6 +38,6 @@ public class cenarioDois extends connection {
         String title = driver.findElement(
             By.xpath("//span[@class='productColor']")
         ).getAttribute("title");
-        assertEquals("GRAY", title);
+        assertEquals("BLACK", title);
     }
 }
